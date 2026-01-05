@@ -1,0 +1,14 @@
+{
+  "name": "com.yourname.custom-editor-generator",
+  "version": "1.0.0",
+  "displayName": "Custom Editor Generator",
+  "description": "Generates boilerplate custom editor scripts for MonoBehaviours.",
+  "unity": "2021.3",
+  "dependencies": {},
+  "keywords": ["editor", "tools", "productivity"],
+  "author": {
+    "name": "Your Name",
+    "email": "you@example.com",
+    "url": "https://yourwebsite.com"
+  }
+}
