@@ -1,5 +1,5 @@
 {
-  "name": "com.yourname.custom-editor-generator",
+  "name": "com.georgedolan.custom-editor-generator",
   "version": "1.0.0",
   "displayName": "Custom Editor Generator",
   "description": "Generates boilerplate custom editor scripts for MonoBehaviours.",
@@ -7,8 +7,8 @@
   "dependencies": {},
   "keywords": ["editor", "tools", "productivity"],
   "author": {
-    "name": "Your Name",
-    "email": "you@example.com",
-    "url": "https://yourwebsite.com"
+    "name": "George Dolan",
+    "email": "georgedolan0119@gmail.com",
+    "url": "https://github.com/GeorgeDolan0119"
   }
 }
