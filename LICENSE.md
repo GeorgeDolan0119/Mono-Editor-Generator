@@ -1,4 +1,4 @@
-Copyright (c) 2026 Your Name
+Copyright (c) 2026 George Dolan
 
 All rights reserved.  
 This software is distributed as a compiled DLL only.  
